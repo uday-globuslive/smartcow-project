@@ -66,7 +66,7 @@ The only hard-requirement is to get the app to work with `minikube`
 
 ## Summary
 
-This documentation is supposed to be very high-level, you will be evaluated on the basis of the low level decisions you make while implementing it and your thought process behind them. 
+This documentation is supposed to be very high-level, you will be evaluated on the basis of the low level decisions you make while implementing it and your thought process behind them. If you have any questions at all feel free to reach out and ask for help.
 
 Best of luck!
 
