@@ -58,13 +58,19 @@ You will be evaluated based on the
 
 Next step is completely separate from step 2. Go back to the application you built in Stage 1 and get it to work with Kubernetes.
 
-Separate out the two containers into separate pods, communicate between the two containers, add a load balancer (or equivalent) and expose the final App over port 80 to the final user. 
+Separate out the two containers into separate pods, communicate between the two containers, add a load balancer (or equivalent), expose the final App over port 80 to the final user (and any other tertiary tasks you might need to do)
+
+Add all the deployments, services and volume (if any) yaml files in the repo.
 
 The only hard-requirement is to get the app to work with `minikube`
 
 ## Summary
 
-This documentation is supposed to be very high-level, you will be evaluated on the basis of the low level decisions you make while implementing it and your thought process behind them. Best of luck!
+This documentation is supposed to be very high-level, you will be evaluated on the basis of the low level decisions you make while implementing it and your thought process behind them. 
+
+Best of luck!
+
+PS Please package your code up in a Github repo and share the link
 
 
 
