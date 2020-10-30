@@ -14,6 +14,7 @@ In the api directory, do the following.
 2. `python app.py`
 3. Visit `http://localhost:8000/stats`
 
+
 ### React Frontend
 In the sys-stats directory, do the following.
 1. `npm install`
